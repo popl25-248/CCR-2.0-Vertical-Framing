@@ -1,4 +1,4 @@
-# Conditional Contextual Refinement 2.0
+# Coq development of the POPL'25 submission #248: "CCR 2.0: Vertical Framing".
 
 ## Dependencies
 Our development successfully compiles with following versions (in Linux, OS X):
